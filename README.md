@@ -1,3 +1,5 @@
 # Microsoft-Azure-Flight-Price-Predict-Deployment
 
-![Img](https://github.com/jimohola/Heroku-Flight-Price-Predict-Deployment/assets/62597513/ec320b6a-728e-4f7b-9cbb-b7d9d8233915)
+![img](https://github.com/jimohola/Flight-Price-Predict-Deployment/assets/62597513/01b3d52e-a890-4dc0-aae3-f2b2cb56b1b7)
+
+
